@@ -1,0 +1,2086 @@
+ [
+    {
+        "_id" : "9fff8f2a4f6977aeaee9a458",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-06-27T08:30:51.247-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"ef8ce03d82217abeee07a677\""
+            },
+            "strainCode" : {
+                "value" : "\"5cd049c6b3b7ab4f389af958\""
+            },
+            "initialCount" : {
+                "value" : "162"
+            },
+            "currentCount" : {
+                "value" : "162"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-26T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 397
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 397,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Candida3",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 162,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 103,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-26T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "397",
+            "Candida3",
+            "103",
+            "datePropagated",
+            "2019-06-27T05:00:00.000Z",
+            "162",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "3edd33bdb60579086b80c94e",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-07-18T15:16:57.732-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"edfa11e46cd4727eec4a18d3\""
+            },
+            "strainCode" : {
+                "value" : "\"5cd049ccb3b7ab4f389af95c\""
+            },
+            "initialCount" : {
+                "value" : "162"
+            },
+            "currentCount" : {
+                "value" : "162"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-26T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 398
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 398,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Candida7",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 162,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : "-",
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-26T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "destroyedCount" : {
+                "value" : "26"
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "398",
+            "Candida7",
+            "datePropagated",
+            "2019-06-27T05:00:00.000Z",
+            "162",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "cad4b9582eb08ddf2d6cefa2",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-06-27T12:15:32.756-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"ab12099195a778b1abafa2e4\""
+            },
+            "strainCode" : {
+                "value" : "\"ef115fb49cdfd758e73b3b92\""
+            },
+            "initialCount" : {
+                "value" : "162"
+            },
+            "currentCount" : {
+                "value" : "162"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-26T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 400
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 400,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Candida9",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 162,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : "-",
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-26T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "400",
+            "Candida9",
+            "datePropagated",
+            "2019-06-27T05:00:00.000Z",
+            "162",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "cb4045eade389169da026b54",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-06-27T13:29:51.346-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"b58acf5b31b56a768e43b5fd\""
+            },
+            "strainCode" : {
+                "value" : "\"75c47636f9adf092f9c3b8da\""
+            },
+            "initialCount" : {
+                "value" : "162"
+            },
+            "currentCount" : {
+                "value" : "162"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-26T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 402
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 402,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-06",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 162,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 164,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-26T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "402",
+            "ECO-06",
+            "164",
+            "datePropagated",
+            "2019-06-27T05:00:00.000Z",
+            "162",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "5a28b9c9b8a6f6fff3ca8887",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-06-27T14:18:03.927-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"53166c959b95cfb403817795\""
+            },
+            "strainCode" : {
+                "value" : "\"5cd049c9b3b7ab4f389af95a\""
+            },
+            "initialCount" : {
+                "value" : "64"
+            },
+            "currentCount" : {
+                "value" : "64"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-26T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 403
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 403,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Candida5",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 64,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : "-",
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-26T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "403",
+            "Candida5",
+            "datePropagated",
+            "2019-06-27T05:00:00.000Z",
+            "64",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "41a3542c2c9e3ad217439812",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-06-27T14:21:56.198-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"b58acf5b31b56a768e43b5fd\""
+            },
+            "strainCode" : {
+                "value" : "\"75c47636f9adf092f9c3b8da\""
+            },
+            "initialCount" : {
+                "value" : "32"
+            },
+            "currentCount" : {
+                "value" : "32"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-26T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 404
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 404,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-06",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 32,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 164,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-26T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "404",
+            "ECO-06",
+            "164",
+            "datePropagated",
+            "2019-06-27T05:00:00.000Z",
+            "32",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "38799b0de0102a15110fae29",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-06-28T12:08:11.746-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"fe2d236b13634d15364ffefc\""
+            },
+            "strainCode" : {
+                "value" : "\"5cd04b45b3b7ab4f389af98a\""
+            },
+            "initialCount" : {
+                "value" : "162"
+            },
+            "currentCount" : {
+                "value" : "162"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-27T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 430
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 430,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Elite4",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 162,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : "-",
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-27T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "430",
+            "Elite4",
+            "datePropagated",
+            "2019-06-28T05:00:00.000Z",
+            "162",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "d17deda8807075b50df4d7b6",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-06-28T13:02:46.171-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"1430d2f9390b8aaf02bc45a7\""
+            },
+            "strainCode" : {
+                "value" : "\"5cd04b49b3b7ab4f389af98d\""
+            },
+            "initialCount" : {
+                "value" : "162"
+            },
+            "currentCount" : {
+                "value" : "162"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-27T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 431
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 431,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Elite7",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 162,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : "-",
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-27T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "431",
+            "Elite7",
+            "datePropagated",
+            "2019-06-28T05:00:00.000Z",
+            "162",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "bcb22ffb67b9933e3e7b7036",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-06-28T13:04:23.250-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"81481a5194f3c49bf37ca5a0\""
+            },
+            "strainCode" : {
+                "value" : "\"5cd04ed2b3b7ab4f389af9b6\""
+            },
+            "initialCount" : {
+                "value" : "324"
+            },
+            "currentCount" : {
+                "value" : "324"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-06-27T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 432
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 432,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-02",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 324,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 165,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-06-27T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "432",
+            "ECO-02",
+            "165",
+            "datePropagated",
+            "2019-06-28T05:00:00.000Z",
+            "324",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "2f1179d6e6080aec2e832946",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-07-02T13:37:56.185-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"b58acf5b31b56a768e43b5fd\""
+            },
+            "strainCode" : {
+                "value" : "\"75c47636f9adf092f9c3b8da\""
+            },
+            "initialCount" : {
+                "value" : "486"
+            },
+            "currentCount" : {
+                "value" : "486"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-01T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 451
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 451,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-06",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 486,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 164,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-01T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "451",
+            "ECO-06",
+            "164",
+            "datePropagated",
+            "2019-07-02T05:00:00.000Z",
+            "486",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "5e1f1396ba6c3b11a4ffc0bb",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-07-03T07:02:12.396-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"b58acf5b31b56a768e43b5fd\""
+            },
+            "strainCode" : {
+                "value" : "\"75c47636f9adf092f9c3b8da\""
+            },
+            "initialCount" : {
+                "value" : "648"
+            },
+            "currentCount" : {
+                "value" : "648"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-02T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 469
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 469,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-06",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 648,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 164,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-02T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "469",
+            "ECO-06",
+            "164",
+            "datePropagated",
+            "2019-07-03T05:00:00.000Z",
+            "648",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "88260fa3fa8e19e732e59a7f",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-07-03T14:59:27.646-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"81481a5194f3c49bf37ca5a0\""
+            },
+            "strainCode" : {
+                "value" : "\"5cd04ed2b3b7ab4f389af9b6\""
+            },
+            "initialCount" : {
+                "value" : "810"
+            },
+            "currentCount" : {
+                "value" : "810"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-02T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 473
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 473,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-02",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 810,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 165,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-02T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "473",
+            "ECO-02",
+            "165",
+            "datePropagated",
+            "2019-07-03T05:00:00.000Z",
+            "810",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "95bf1645954a54087916f172",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-08-08T11:41:04.274-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "729205a2257427bf2ddac9b2"
+            },
+            "strainCode" : {
+                "value" : "\"5cd04ad3b3b7ab4f389af979\""
+            },
+            "initialCount" : {
+                "value" : "162"
+            },
+            "currentCount" : {
+                "value" : "162"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-31T07:00:00.000Z"
+                },
+                "toRootStimulationPeriod" : {
+                    "value" : ""
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 474
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 474,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Elite1",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 162,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 102,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-31T07:00:00.000Z",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "474",
+            "Elite1",
+            "102",
+            "datePropagated",
+            "2019-07-31T07:00:00.000Z",
+            "162",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "b28eedf19c9eef91c058dd8f",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-08-08T11:41:44.866-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"b58acf5b31b56a768e43b5fd\""
+            },
+            "strainCode" : {
+                "value" : "\"75c47636f9adf092f9c3b8da\""
+            },
+            "initialCount" : {
+                "value" : "324"
+            },
+            "currentCount" : {
+                "value" : "324"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-03T22:00:00.000-07:00"
+                },
+                "toRootStimulationPeriod" : {
+                    "value" : ""
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level2" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                },
+                "level3" : {
+                    "value" : "\"1af9cc5b80ff2ec717cbbea3\""
+                }
+            },
+            "trackingID" : {
+                "value" : 475
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 475,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-06",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 324,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 164,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-03T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "475",
+            "ECO-06",
+            "164",
+            "datePropagated",
+            "2019-07-04T05:00:00.000Z",
+            "324",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "c940daaf104bd81d467c1e19",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Q5vQEh9Z37yfnX29E",
+        "lastModified" : "2019-07-04T11:05:40.556-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "\"b58acf5b31b56a768e43b5fd\""
+            },
+            "strainCode" : {
+                "value" : "\"75c47636f9adf092f9c3b8da\""
+            },
+            "initialCount" : {
+                "value" : "250"
+            },
+            "currentCount" : {
+                "value" : "250"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-05-30T22:00:00.000-07:00"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "\"9b879d7ccfbb69941decd972\""
+                },
+                "level2" : {
+                    "value" : "\"9b879d7ccfbb69941decd972\""
+                },
+                "level3" : {
+                    "value" : "\"9b879d7ccfbb69941decd972\""
+                }
+            },
+            "trackingID" : {
+                "value" : 476
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 476,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-06",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 250,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 164,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-05-30T22:00:00.000-07:00",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "476",
+            "ECO-06",
+            "164",
+            "datePropagated",
+            "2019-05-31T05:00:00.000Z",
+            "250",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "48d68e79532a228f7dd0ad93",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "NeaDtJY4GasWydmD9",
+        "lastModified" : "2019-07-09T12:23:02.725-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "5cd06e8bb3b7ab4f389af9e9"
+            },
+            "strainCode" : {
+                "value" : "ee21bff5247bfe92a3dd2b2e"
+            },
+            "initialCount" : {
+                "value" : "80"
+            },
+            "destroyedCount" : {
+                "value" : "0"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-09T05:00:00.000Z"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "1af9cc5b80ff2ec717cbbea3"
+                },
+                "level2" : {
+                    "value" : "0193d3071b9d15eb587a43cb"
+                },
+                "level3" : {
+                    "value" : "7499f2d52bc5d8be06e1b6e6"
+                },
+                "level4" : {
+                    "value" : "9c8857b299187094e00ed5b8"
+                }
+            },
+            "trackingID" : {
+                "value" : 479
+            },
+            "harvestedCount" : {
+                "value" : 80
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 479,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "JP3771",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : "0",
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : "-",
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-09T05:00:00.000Z",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "479",
+            "JP3771",
+            "datePropagated",
+            "2019-07-09T05:00:00.000Z",
+            "80",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "2917eaa754d3da649b3eeca5",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "Bhb4WbaEddRAQS8v5",
+        "lastModified" : "2019-07-09T12:15:16.622-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "5cd06e8bb3b7ab4f389af9e9"
+            },
+            "strainCode" : {
+                "value" : "5cd049c8b3b7ab4f389af959"
+            },
+            "initialCount" : {
+                "value" : "200"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "destroyedCount" : {
+                "value" : "2"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-09T05:00:00.000Z"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "1af9cc5b80ff2ec717cbbea3"
+                }
+            },
+            "trackingID" : {
+                "value" : 480
+            },
+            "harvestedCount" : {
+                "value" : 0
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 480,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Candida4",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 200,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : "-",
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-09T05:00:00.000Z",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "480",
+            "Candida4",
+            "datePropagated",
+            "2019-07-09T05:00:00.000Z",
+            "200",
+            "clone"
+        ],
+        "undefined" : 0
+    },
+    
+    {
+        "_id" : "b4a34312313e58c853462a43",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "yFmTtD5bKXWo8H4py",
+        "lastModified" : "2019-07-15T14:30:43.914-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "a8a5039943eb30b6c0ec264f"
+            },
+            "strainCode" : {
+                "value" : "75c47636f9adf092f9c3b8da"
+            },
+            "initialCount" : {
+                "value" : "100"
+            },
+            "destroyedCount" : {
+                "value" : "0"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-01T07:00:00.000Z"
+                },
+                "toRootStimulationPeriod" : {
+                    "value" : "2019-07-03T07:00:00.000Z"
+                },
+                "toRootPromotionPeriod" : {
+                    "value" : "2019-07-05T07:00:00.000Z"
+                },
+                "toAcclimationPeriod" : {
+                    "value" : "2019-07-07T07:00:00.000Z"
+                },
+                "toGreenhouseAcclimation" : {
+                    "value" : "2019-07-09T07:00:00.000Z"
+                },
+                "transplantToHalfLiter" : {
+                    "value" : "2019-07-11T07:00:00.000Z"
+                },
+                "transplantToTwoLiter" : {
+                    "value" : "2019-07-12T07:00:00.000Z"
+                },
+                "transplantToFiveLiter" : {
+                    "value" : "2019-07-12T07:00:00.000Z"
+                },
+                "toFloweringPeriod" : {
+                    "value" : "2019-07-14T07:00:00.000Z"
+                },
+                "harvestDate" : {
+                    "value" : "2019-07-15T07:00:00.000Z"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "1af9cc5b80ff2ec717cbbea3"
+                },
+                "level2" : {
+                    "value" : "0193d3071b9d15eb587a43cb"
+                },
+                "level3" : {
+                    "value" : "7499f2d52bc5d8be06e1b6e6"
+                },
+                "level4" : {
+                    "value" : "9c8857b299187094e00ed5b8"
+                }
+            },
+            "trackingID" : {
+                "value" : 484
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 484,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "ECO-06",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 100,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : "-",
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-01T07:00:00.000Z",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "484",
+            "ECO-06",
+            "datePropagated",
+            "2019-07-01T07:00:00.000Z",
+            "2019-07-03T07:00:00.000Z",
+            "2019-07-05T07:00:00.000Z",
+            "2019-07-07T07:00:00.000Z",
+            "2019-07-09T07:00:00.000Z",
+            "2019-07-11T07:00:00.000Z",
+            "2019-07-12T07:00:00.000Z",
+            "2019-07-14T07:00:00.000Z",
+            "2019-07-15T07:00:00.000Z",
+            "100",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "0b8a136dc2af12267915ed00",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "mPuuspQYrqS774sn4",
+        "lastModified" : "2019-07-21T14:58:36.100-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "4635eb156e6db41e63e18e06"
+            },
+            "strainCode" : {
+                "value" : "4fc46cf3b50cb16593b3a95f"
+            },
+            "initialCount" : {
+                "value" : "130"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-19T07:00:00.000Z"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "9b879d7ccfbb69941decd972"
+                }
+            },
+            "trackingID" : {
+                "value" : 507
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 507,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "TEST",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 130,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 237,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-19T07:00:00.000Z",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "507",
+            "TEST",
+            "237",
+            "datePropagated",
+            "2019-07-19T07:00:00.000Z",
+            "130",
+            "clone"
+        ]
+    },
+    
+    {
+        "_id" : "7e5219c9be4cc5f72d890d76",
+        "collection" : "production",
+        "fieldset" : "lotDescription",
+        "name" : "production-plants",
+        "parent" : "e5441d9da4d81254aa51398e",
+        "path" : "lotDescription",
+        "userId" : "mPuuspQYrqS774sn4",
+        "lastModified" : "2019-07-20T15:46:23.015-07:00",
+        "lotDescription" : {
+            "rootLot" : {
+                "value" : "4afc568bcc8969dcce201e1f"
+            },
+            "strainCode" : {
+                "value" : "5cd04a56b3b7ab4f389af96f"
+            },
+            "initialCount" : {
+                "value" : "191"
+            },
+            "cultivationStage" : {
+                "value" : "clone"
+            },
+            "lotSchedule" : {
+                "datePropagated" : {
+                    "value" : "2019-07-20T07:00:00.000Z"
+                }
+            },
+            "locationInformation" : {
+                "level1" : {
+                    "value" : "1af9cc5b80ff2ec717cbbea3"
+                }
+            },
+            "trackingID" : {
+                "value" : 521
+            },
+            "tableData" : {
+                "value" : [
+                    {
+                        "key" : "lotDescription.trackingID",
+                        "value" : 521,
+                        "type" : "trackingID"
+                    },
+                    {
+                        "key" : "lotDescription.strainCode",
+                        "value" : "Critical5",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.activeCount",
+                        "value" : 191,
+                        "type" : "integer"
+                    },
+                    {
+                        "key" : "lotDescription.locationInformation.level1",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotScheduleStage",
+                        "value" : "datePropagated",
+                        "type" : "alphanumeric"
+                    },
+                    {
+                        "key" : "lotDescription.rootLot",
+                        "value" : 279,
+                        "type" : "selectMulti"
+                    },
+                    {
+                        "key" : "lotDescription.isReconciled",
+                        "value" : "-",
+                        "type" : "select"
+                    },
+                    {
+                        "key" : "lotDescription.lotSchedule.datePropagated",
+                        "value" : "2019-07-20T07:00:00.000Z",
+                        "type" : "date"
+                    }
+                ]
+            },
+            "lotScheduleStage" : {
+                "value" : "datePropagated"
+            }
+        },
+        "keyWords" : [
+            "521",
+            "Critical5",
+            "279",
+            "datePropagated",
+            "2019-07-20T07:00:00.000Z",
+            "191",
+            "clone"
+        ]
+    }
+]
