@@ -1,2 +1,2 @@
-# contact-keeper-app
-Contact Keeper app
+# contacts-ak
+Contacts app
